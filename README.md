@@ -2,7 +2,7 @@
 
 ## Description
 
-This web App is an example of a landing page. Its focus is to show a Fluid Navbar using **IntersectionObserver** to check which section the user is on and transitate to the corresponding main menu item.
+This web App is an example of a landing page. Its focus is to show a Fluid Navbar using **IntersectionObserver** to check which section the user is on and transitate to the corresponding main menu item once the navbar is rolled.
 
 ## App
 
